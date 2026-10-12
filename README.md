@@ -5,7 +5,7 @@ Contains documentation steps for setting up development.
 ## Applications
 
 - [GitHub](.\github.md)
-- [Replit](.\replit.md)
+- [Replit](replit.md)
 
 ## Authors
 
